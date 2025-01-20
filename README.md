@@ -7,5 +7,6 @@ The random function generates the number between 1 to 100. The user has 10 chanc
 Which Python concepts are covered?
 If-else
 While Loop
-Random function
+Random function![Capture](https://github.com/user-attachments/assets/190aaed3-340b-4d28-aa2e-1e84cf0b72ef)
+
 break statement
